@@ -1,6 +1,5 @@
 # COS 451 Final Project
 Fortune's Sweepline Algorithm for Voronoi Diagrams
-Sharon Zhang (sharonz@princeton.edu)
 
 # DEPENDENCIES
 This program uses the `StdDraw.java` and `Stopwatch.java` classes in the Java StdLib.
